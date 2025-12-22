@@ -14,7 +14,3 @@
 :earth_asia: **[Игровой мир](docs/world.md)**
 
 :bar_chart: [**Испытания**](docs/trials.md)
-
-## Ссылки на внешние ресурсы
-
-:art: [Figma](https://www.figma.com/design/MMcKayxic2t5l1qCnClRxd/)
