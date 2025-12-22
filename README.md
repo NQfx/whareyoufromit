@@ -7,6 +7,7 @@
 
 - [Глава 1](docs/chapters/ch1.md)
 - [Глава 2](docs/chapters/ch1.md)
+- [Глава 3](docs/chapters/ch3.md)
 
 :busts_in_silhouette: **[Персонажи](docs/characters.md)**
 
