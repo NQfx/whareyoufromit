@@ -17,4 +17,4 @@
 
 ## Ссылки на внешние ресурсы
 
-:art: [Figma](https://www.figma.com/design/MMcKayxic2t5l1qCnClRxd/
+:art: [Figma](https://www.figma.com/design/MMcKayxic2t5l1qCnClRxd/)
