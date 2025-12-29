@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://github.com/NQfx/whareyoufromit/">
-    <img src="/docs/images/projectmayhem_logo.png" alt="Logo" width="200" height="200">
+    <img src="/docs/images/projectmayhem_logo.png" alt="Logo" width="120" height="120">
   </a>
 </h1>
 
-# ProjectMayhem
+## ProjectMayhem
 Образовательный проект по разработке визуальной новеллы на Ren'Py. Игра должна помочь абитуриентам определить свою будущую профессию. Благодаря интерактивной форме и абстракции выбора новелла подходит для каждого желающего и не требует высокого уровня технических навыков.
 
 ## Карта проекта
