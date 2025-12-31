@@ -15,9 +15,8 @@
 - [Глава 2](docs/chapters/ch1.md)
 - [Глава 3](docs/chapters/ch3.md)
 - [Глава 4](docs/chapters/ch4.md)
-- Глава 5
-- Глава 6
-- Глава 7
+- [Глава 5](docs/chapters/ch5.md)
+- [Глава 6](docs/chapters/ch6.md)
 
 :busts_in_silhouette: **[Персонажи](docs/characters.md)**
 
